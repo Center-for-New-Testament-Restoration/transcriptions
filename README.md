@@ -1,7 +1,7 @@
 <h1>Center for New Testament Restoration<br>Electronic Transcriptions</h1>
 
 <h2>Description</h2>
-Electronic transcriptions adhering to the Manuscript Encoding Specification.
+Electronic transcriptions of early witnesses and modern critical texts adhering to the Manuscript Encoding Specification.
 
 <h2>License</h2>
 <img alt='Creative Commons License' src="https://licensebuttons.net/l/by-sa/3.0/88x31.png" width="88" height="31" style='margin:0 10px 0 12pt; float:left;'/>
