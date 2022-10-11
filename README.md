@@ -1,5 +1,5 @@
-<h2>Center for New Testament Restoration</h2>
-<h1>Electronic Transcriptions</h1>
+<h1>Center for New Testament Restoration<br>
+Electronic Transcriptions</h1>
 
 <h2>Description</h2>
 Electronic transcriptions of the CNTR texts adhering to the Manuscript Encoding Specification.
