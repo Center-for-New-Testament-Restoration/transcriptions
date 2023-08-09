@@ -1,5 +1,5 @@
 # Witness RP
-# Produced by the Center for New Testament Restoration (CNTR) 4/12/23
+# Produced by the Center for New Testament Restoration (CNTR) 8/8/23
 # Copyright © 2023 by Alan Bunning released under Creative Commons Attribution 4.0 International License (CC BY-SA 4.0)
 40001001 Βίβλος γενέσεως Ἰησοῦ χριστοῦ, υἱοῦ Δαυίδ, υἱοῦ Ἀβραάμ.
 40001002 Ἀβραὰμ ἐγέννησεν τὸν Ἰσαάκ· Ἰσαὰκ δὲ ἐγέννησεν τὸν Ἰακώβ· Ἰακὼβ δὲ ἐγέννησεν τὸν Ἰούδαν καὶ τοὺς ἀδελφοὺς αὐτοῦ·
