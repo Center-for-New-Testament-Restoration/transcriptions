@@ -34,9 +34,6 @@ Glyph Purpose                   ASCII Description
   ]   end questionable text       5D  right square bracket 
   +   verse present               2B  plus sign 
   -   verse absent                2D  hyphen-minus sign 
-  "   direct quotation            22  quotation mark 
-  '   incorporation               27  apostrophe 
-  `   allusion                    60  grave accent 
 ````
 
 These transcriptions are generated directly from the CNTR and so any pull requests would not be directly applied. 
