@@ -1,6 +1,6 @@
 # Center for New Testament Restoration<br>Electronic Transcriptions
 
-Copyright © 2020-2023 by Alan Bunning. All rights reserved. Released under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
+Copyright © 2020-2026 by Alan Bunning. All rights reserved. Released under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
 
 # Description
 Electronic transcriptions of early witnesses and some modern critical texts adhering to the Manuscript Encoding Specification (MES).
