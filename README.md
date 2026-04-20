@@ -37,7 +37,8 @@ Glyph Purpose                     UTF-8  Character Description
   ⋄   alternate verse division    E28B84 white diamond
 ````
 
-These transcriptions are generated directly from the CNTR and so any pull requests would not be directly applied. 
+These transcriptions are generated directly from the CNTR database and so any pull requests will not be applied.
+The ANTLR grammar for the MES is specified in the MES.g4 file.
 For more information on how these codes are applied, see the <a href=https://greekcntr.org/resources/technical.pdf>CNTR Technical Reference</a> document.
 
 # License
